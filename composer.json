@@ -26,7 +26,7 @@
   "version": "1.0.0",
     "autoload": {
         "psr-4": {
-            "Location": "src/"
+            "Location\\": "src/"
         }
     }
 
