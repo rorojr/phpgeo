@@ -15,7 +15,6 @@
         "point",
         "angle"
     ],
-    "type": "library",
     "license": "MIT",
     "authors": [
         {
