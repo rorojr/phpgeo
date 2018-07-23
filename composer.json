@@ -10,13 +10,11 @@
         "polygon",
         "geofence",
         "bearing",
-        "projection",
         "gps",
         "earth",
         "point",
         "angle"
     ],
-    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "authors": [
